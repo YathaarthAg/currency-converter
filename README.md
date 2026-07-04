@@ -6,7 +6,7 @@ A responsive Currency Converter web application built using **HTML**, **CSS**, a
 
 ## 🌐 Live Demo
 
-**GitHub Pages:** .
+**GitHub Pages:** https://yathaarthag.github.io/currency-converter/
 
 ---
 
